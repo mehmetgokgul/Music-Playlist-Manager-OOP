@@ -2,7 +2,6 @@ package playlistmanager;
 import java.util.Scanner;
 
 // Name Surname: Mehmet Gökgül
-// Student ID : 22050151040
 
 class Song {
 
