@@ -1,20 +1,8 @@
 package playlistmanager;
 import java.util.Scanner;
 
-
 // Name Surname: Mehmet Gökgül
 // Student ID : 22050151040
-// Video Link : https://drive.google.com/file/d/1Uj0Waf4Bj6HPEhWoE2I2ZcR0FSHSQN-4/view?usp=sharing
-
-/*
-In this project, I developed a playlist manager application utilizing two types of linked lists: Singly Linked List and Doubly Linked List. 
-The program enables users to add, remove, search, display, and reverse songs. It also allows users to navigate through the playlist and move songs to specific positions.
-To streamline playlist management, I created a Node class for each linked list, ensuring the code is more modular and user-friendly. 
-Additionally, I implemented optional methods for both list types, including Search Song and Reverse Playlist functions.
-Initially, for the song-moving functionality, I utilized the element-swapping method to move a song to the desired position. 
-However, to enhance the design while preserving the list’s integrity, I later optimized the approach by incorporating the removeNode and insertAtPosition methods.
-*/
-
 
 class Song {
 
